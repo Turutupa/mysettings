@@ -1,0 +1,2 @@
+alias turutupassh=’ssh -t <USER_NAME>@<DOMAIN> -p <PORT_NUMBER> “cd /path/to/directory/ ; exec bash”’
+alias turutupavs=’code –folder-uri “vscode-remote://ssh-remote+<DOMAIN_NAME>/path/to/directory/”’
